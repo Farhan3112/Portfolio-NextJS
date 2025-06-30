@@ -2,7 +2,7 @@
 
 A modern and responsive developer portfolio built with **Next.js**, **Styled Components**, and **React Icons**, showcasing my skills, projects, and journey in web development.
 
-![Project Screenshot](./public/images/hero.png)
+![Project Screenshot](./public/images/hero.PNG)
 
 ---
 
@@ -73,11 +73,11 @@ npm run dev
 
 ## 📸 Screenshots
 
-### ✅ Hero Section
-![Hero Section](./public/images/hero.png)
+### ✅ Project Section
+![Hero Section](./public/images/projects.png)
 
-### ✅ About Me Timeline
-![Timeline](./public/images/timeline.png)
+### ✅ Technologies and About Me Timeline
+![Timeline](./public/images/tech-about.png)
 
 ---
 
