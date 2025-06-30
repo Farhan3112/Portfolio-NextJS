@@ -74,10 +74,10 @@ npm run dev
 ## 📸 Screenshots
 
 ### ✅ Project Section
-![Hero Section](./public/images/projects.png)
+![Hero Section](./public/images/projects.PNG)
 
 ### ✅ Technologies and About Me Timeline
-![Timeline](./public/images/tech-about.png)
+![Timeline](./public/images/tech-about.PNG)
 
 ---
 
