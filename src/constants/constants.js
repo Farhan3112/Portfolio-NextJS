@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/Farhan3112/Memories_MERN',
-    visit: 'https://memories-client-i4nq.onrender.com/posts',
+    visit: 'https://memories-wake.onrender.com/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'Express','Node','stream-chat'],
     source: 'https://github.com/Farhan3112/Chatly-Chat-App',
-    visit: 'https://chatly-client-j6u8.onrender.com/',
+    visit: 'https://chatly-wake.onrender.com/',
     id: 1, 
   },
   // {
