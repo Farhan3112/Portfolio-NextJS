@@ -14,7 +14,7 @@ const Hero = (props) => (
         <SectionText>
         I'm a final-year B.Tech IT student passionate about web development and problem-solving, currently building projects with the MERN stack.
         </SectionText>
-        <a href="https://drive.google.com/file/d/1E7x-wJHpJUl43d0wIV4kp8Wt14YuPYi6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1K7Kz5ibpbwuwhLZPrYmoHe66l3dP_sOe/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
           <Button>View Resume</Button>
         </a>
       </LeftSection>
