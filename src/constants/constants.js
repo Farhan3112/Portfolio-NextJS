@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://chatly-wake.onrender.com/',
     id: 1, 
   },
+  {
+    title: 'Sorting Visualizer',
+    description:"Sorting Visualizer is an interactive web application that visually explains how sorting algorithms operate internally using animated bars. Users can control array size and speed, observe comparisons and swaps in real time, and understand algorithm efficiency. It strengthens DSA concepts while showcasing strong JavaScript, DOM manipulation, and responsive UI design skills.",
+    image: '/images/SV.png',
+    tags: ['HTML', 'CSS','Javascript'],
+    source: 'https://github.com/Farhan3112/Sorting-Visualizer',
+    visit: 'https://sorting-visualizer-tan-one.vercel.app/',
+    id: 2, 
+  },
   // {
   //   title: 'WebRTC App',
   //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
