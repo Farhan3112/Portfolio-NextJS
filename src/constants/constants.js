@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Sorting Visualizer',
     description:"Sorting Visualizer is an interactive web application that visually explains how sorting algorithms operate internally using animated bars. Users can control array size and speed, observe comparisons and swaps in real time, and understand algorithm efficiency. It strengthens DSA concepts while showcasing strong JavaScript, DOM manipulation, and responsive UI design skills.",
-    image: '/images/SV.png',
+    image: '/images/3.png',
     tags: ['HTML', 'CSS','Javascript'],
     source: 'https://github.com/Farhan3112/Sorting-Visualizer',
     visit: 'https://sorting-visualizer-tan-one.vercel.app/',
